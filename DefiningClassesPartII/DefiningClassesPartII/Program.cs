@@ -17,6 +17,13 @@ class Program
         // kato se inicializira si dawa 4isloto
         Console.Write("Cast int:");
         Console.WriteLine((int)month);
+        Point b = new Point(3);
+        Console.WriteLine("Konstruktor s override tostring : konst s edin parametyr");
+        Console.WriteLine(b.ToString());
+        Point point2 = new Point(3,5);
+        Console.WriteLine("Konstruktor s override tostring : konst s dwa parametyra");
+        Console.WriteLine(point2.ToString());
+        
     }
 }
 

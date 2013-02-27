@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\NameSpaceIndexAndOverloading\bin\Debug\NameSpaceIndexAndOverloading.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\NameSpaceIndexAndOverloading\bin\Debug\NameSpaceIndexAndOverloading.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\NameSpaceIndexAndOverloading\obj\x86\Debug\NameSpaceIndexAndOverloading.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\NameSpaceIndexAndOverloading\obj\x86\Debug\NameSpaceIndexAndOverloading.pdb

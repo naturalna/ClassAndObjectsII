@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\ProbaZaUsingNamespace\bin\Debug\ProbaZaUsingNamespace.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\ProbaZaUsingNamespace\bin\Debug\ProbaZaUsingNamespace.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\ProbaZaUsingNamespace\obj\x86\Debug\ProbaZaUsingNamespace.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\ProbaZaUsingNamespace\obj\x86\Debug\ProbaZaUsingNamespace.pdb

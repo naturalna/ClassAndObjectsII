@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClassesPartII", "DefiningClassesPartII\DefiningClassesPartII.csproj", "{D71E623E-EC8B-4A78-BAFB-C79A847E189C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{3F86B67B-C23D-45D5-9A17-E4C07AB683B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpaceIndexAndOverloading", "NameSpaceIndexAndOverloading\NameSpaceIndexAndOverloading.csproj", "{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +17,14 @@ Global
 		{D71E623E-EC8B-4A78-BAFB-C79A847E189C}.Debug|x86.Build.0 = Debug|x86
 		{D71E623E-EC8B-4A78-BAFB-C79A847E189C}.Release|x86.ActiveCfg = Release|x86
 		{D71E623E-EC8B-4A78-BAFB-C79A847E189C}.Release|x86.Build.0 = Release|x86
+		{3F86B67B-C23D-45D5-9A17-E4C07AB683B4}.Debug|x86.ActiveCfg = Debug|x86
+		{3F86B67B-C23D-45D5-9A17-E4C07AB683B4}.Debug|x86.Build.0 = Debug|x86
+		{3F86B67B-C23D-45D5-9A17-E4C07AB683B4}.Release|x86.ActiveCfg = Release|x86
+		{3F86B67B-C23D-45D5-9A17-E4C07AB683B4}.Release|x86.Build.0 = Release|x86
+		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Debug|x86.ActiveCfg = Debug|x86
+		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Debug|x86.Build.0 = Debug|x86
+		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Release|x86.ActiveCfg = Release|x86
+		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
