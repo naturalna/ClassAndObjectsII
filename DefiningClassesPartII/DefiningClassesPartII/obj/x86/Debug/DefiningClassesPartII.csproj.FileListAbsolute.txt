@@ -2,3 +2,5 @@ C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Defin
 C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\DefiningClassesPartII\bin\Debug\DefiningClassesPartII.pdb
 C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\DefiningClassesPartII\obj\x86\Debug\DefiningClassesPartII.exe
 C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\DefiningClassesPartII\obj\x86\Debug\DefiningClassesPartII.pdb
+C:\Users\user\Desktop\teleric\spodelqne na znaniq\GitHub\GitHubExample\ClassAndObjectsII\DefiningClassesPartII\DefiningClassesPartII\obj\x86\Debug\DefiningClassesPartII.exe
+C:\Users\user\Desktop\teleric\spodelqne na znaniq\GitHub\GitHubExample\ClassAndObjectsII\DefiningClassesPartII\DefiningClassesPartII\obj\x86\Debug\DefiningClassesPartII.pdb

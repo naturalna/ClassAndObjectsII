@@ -2,3 +2,5 @@ C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Gener
 C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Generic\bin\Debug\Generic.pdb
 C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Generic\obj\x86\Debug\Generic.exe
 C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Generic\obj\x86\Debug\Generic.pdb
+C:\Users\user\Desktop\teleric\spodelqne na znaniq\GitHub\GitHubExample\ClassAndObjectsII\DefiningClassesPartII\Generic\obj\x86\Debug\Generic.exe
+C:\Users\user\Desktop\teleric\spodelqne na znaniq\GitHub\GitHubExample\ClassAndObjectsII\DefiningClassesPartII\Generic\obj\x86\Debug\Generic.pdb

@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LambdaExpressions\obj\x86\Debug\LambdaExpressions.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LambdaExpressions\obj\x86\Debug\LambdaExpressions.pdb

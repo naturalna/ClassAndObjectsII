@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\AnonymousTypes\obj\x86\Debug\AnonymousTypes.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\AnonymousTypes\obj\x86\Debug\AnonymousTypes.pdb

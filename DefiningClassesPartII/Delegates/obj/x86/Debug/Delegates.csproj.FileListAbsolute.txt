@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Delegates\bin\Debug\Delegates.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Delegates\bin\Debug\Delegates.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Delegates\obj\x86\Debug\Delegates.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\Delegates\obj\x86\Debug\Delegates.pdb

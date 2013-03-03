@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LINQQueries\bin\Debug\LINQQueries.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LINQQueries\bin\Debug\LINQQueries.pdb
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LINQQueries\obj\x86\Debug\LINQQueries.exe
+C:\Users\user\Desktop\teleric\oop\lekciq2\uprajnenie\DefiningClassesPartII\LINQQueries\obj\x86\Debug\LINQQueries.pdb
+C:\Users\user\Desktop\teleric\spodelqne na znaniq\GitHub\GitHubExample\ClassAndObjectsII\DefiningClassesPartII\LINQQueries\obj\x86\Debug\LINQQueries.exe
+C:\Users\user\Desktop\teleric\spodelqne na znaniq\GitHub\GitHubExample\ClassAndObjectsII\DefiningClassesPartII\LINQQueries\obj\x86\Debug\LINQQueries.pdb

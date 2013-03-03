@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpaceIndexAndOverloading", "NameSpaceIndexAndOverloading\NameSpaceIndexAndOverloading.csproj", "{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{BA4F15C9-73AC-478B-836B-F2133610BD03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypes", "AnonymousTypes\AnonymousTypes.csproj", "{C7C52E1F-5466-4DD3-8E1E-01C77514E24A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndAnonMethods", "Delegates\DelegatesAndAnonMethods.csproj", "{A451727F-D400-4142-838A-C0AFDDDA4BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{3E80A85A-24DD-4651-943A-F45C209C6F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQQueries", "LINQQueries\LINQQueries.csproj", "{762EDA33-FCFF-47C4-93EB-836FAEE2AD1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +35,26 @@ Global
 		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Debug|x86.Build.0 = Debug|x86
 		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Release|x86.ActiveCfg = Release|x86
 		{8075CB4B-C909-4D16-A7E5-E300E82BC4E8}.Release|x86.Build.0 = Release|x86
+		{BA4F15C9-73AC-478B-836B-F2133610BD03}.Debug|x86.ActiveCfg = Debug|x86
+		{BA4F15C9-73AC-478B-836B-F2133610BD03}.Debug|x86.Build.0 = Debug|x86
+		{BA4F15C9-73AC-478B-836B-F2133610BD03}.Release|x86.ActiveCfg = Release|x86
+		{BA4F15C9-73AC-478B-836B-F2133610BD03}.Release|x86.Build.0 = Release|x86
+		{C7C52E1F-5466-4DD3-8E1E-01C77514E24A}.Debug|x86.ActiveCfg = Debug|x86
+		{C7C52E1F-5466-4DD3-8E1E-01C77514E24A}.Debug|x86.Build.0 = Debug|x86
+		{C7C52E1F-5466-4DD3-8E1E-01C77514E24A}.Release|x86.ActiveCfg = Release|x86
+		{C7C52E1F-5466-4DD3-8E1E-01C77514E24A}.Release|x86.Build.0 = Release|x86
+		{A451727F-D400-4142-838A-C0AFDDDA4BCD}.Debug|x86.ActiveCfg = Debug|x86
+		{A451727F-D400-4142-838A-C0AFDDDA4BCD}.Debug|x86.Build.0 = Debug|x86
+		{A451727F-D400-4142-838A-C0AFDDDA4BCD}.Release|x86.ActiveCfg = Release|x86
+		{A451727F-D400-4142-838A-C0AFDDDA4BCD}.Release|x86.Build.0 = Release|x86
+		{3E80A85A-24DD-4651-943A-F45C209C6F63}.Debug|x86.ActiveCfg = Debug|x86
+		{3E80A85A-24DD-4651-943A-F45C209C6F63}.Debug|x86.Build.0 = Debug|x86
+		{3E80A85A-24DD-4651-943A-F45C209C6F63}.Release|x86.ActiveCfg = Release|x86
+		{3E80A85A-24DD-4651-943A-F45C209C6F63}.Release|x86.Build.0 = Release|x86
+		{762EDA33-FCFF-47C4-93EB-836FAEE2AD1D}.Debug|x86.ActiveCfg = Debug|x86
+		{762EDA33-FCFF-47C4-93EB-836FAEE2AD1D}.Debug|x86.Build.0 = Debug|x86
+		{762EDA33-FCFF-47C4-93EB-836FAEE2AD1D}.Release|x86.ActiveCfg = Release|x86
+		{762EDA33-FCFF-47C4-93EB-836FAEE2AD1D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
